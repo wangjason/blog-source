@@ -13,14 +13,12 @@ tagline: Supporting tagline
   {% endfor %}
 </ul>
 
-<section>
-<h4>About me</h4>
-<div>
- 操作系统内核驱动工程师，主要从事驱动开发和内核开发。<a href="/about.html">更多信息</a> 
-<br/>
-<br/>
-<strong><font color="red"><a href="/atom.xml" target="_blank">订阅本站</a></font></strong>
-<br/><br/>
-联系博主：Atwoodwang:wangatwood@gmail.com
-</div>
-</section>
+###About Me
+
+ 内核驱动工程师
+
+<a href="/about.html">更多信息</a> 
+
+###联系博主：
+
+ wangjason@163.com
